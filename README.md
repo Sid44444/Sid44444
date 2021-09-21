@@ -7,7 +7,7 @@
      I have also completed a course in Manchester were I created two apps, one on my own and the other in a team of 3 where I was responsible for the back end (MySQL) and the group presentation.
      I am looking to gain my first job with a Dev team. I am friendly, thoughtful and hardworking.
      
-- 📫 How to reach me: soon I will have my own website with information about the projects I have made and I will have contact details on there.
+- Just started my Masters degree in Computer Science with Software Engineering. 
 
 <!---
 Sid44444/Sid44444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
